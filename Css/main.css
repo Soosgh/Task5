@@ -1,0 +1,127 @@
+* {
+    margin: 0;
+}
+
+.Wrapper {
+    margin: 40px 40px 40px 70px;
+
+}
+
+
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: left;
+    margin: 40px 40px 40px 70px;
+    font-weight: bold;
+
+}
+
+.Top {
+
+    width: 100%;
+    height: 50%;
+    background-color: aquamarine;
+
+}
+
+.Card {
+    width: 20%;
+    height: 90%;
+    border: 2px;
+    border-style: solid;
+    border-radius: 5px;
+    border-color: gray;
+    padding-bottom: 20px;
+    float: left;
+}
+
+
+.Card img {
+    width: 90%;
+    height: 45%;
+    margin: 15px 15px 5px 15px;
+
+}
+
+.clr {
+    clear: right;
+}
+
+
+h3 {
+    text-align: left;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 0px 15px;
+}
+
+.description {
+    text-align: left;
+    color: grey;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 5px 15px;
+}
+
+.discount {
+    margin: 10px 5px 0 20px;
+
+}
+
+.after_discount {
+    font-size: large;
+    color: green;
+    display: inline;
+
+}
+
+.before_discount {
+    font-size: medium;
+    color: red;
+    text-decoration-line: line-through;
+    display: inline;
+}
+
+.btn {
+    width: 100%;
+    margin: 15px 5px 5px 5px;
+}
+
+
+
+
+.addToCartbtn Button {
+    display: inline;
+    background-color: #1b8dd9;
+    border: none;
+    color: white;
+    padding: 15px 17px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    margin: 4px 2px;
+}
+
+.Wishlistbtn {
+    display: inline;
+}
+
+.Wishlistbtn Button {
+    background-color: white;
+    border-color: #1b8dd9;
+    color: #1b8dd9;
+    padding: 10px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline;
+    font-size: 16px;
+    margin: 4px 2px;
+}
+
+.Wishlistbtn i {
+
+    border: 3px;
+    border-color: rgb(0, 157, 255);
+}
+
+.clr {
+    clear: both;
+}
